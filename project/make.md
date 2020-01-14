@@ -1,6 +1,6 @@
 Go through all the resources and complete the below tasks.
 
-- [Basic] Create a dra and drop list.
+- [Basic] Create a drag and drop list.
 
 Once you are dome with the list make a Drag and Drop Game as below.
 
